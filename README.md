@@ -14,9 +14,9 @@ I'm an experienced **Cybersecurity Professional** specializing in **Vulnerabilit
 
 
 #### Skills:
--**Technical Skills**: Vulnerability Management, Cloud Security, EASM, Container Security, Application Security, Web Application 
+- **Technical Skills**: Vulnerability Management, Cloud Security, EASM, Container Security, Application Security, Web Application 
 Security.
--**Security Tools & Platforms**: Qualys (VMDR, CS, CV, PM, WAS), Rapid7, Kenna Security (Cisco tool), Prisma Cloud (Palo Alto) 
+- **Security Tools & Platforms**: Qualys (VMDR, CS, CV, PM, WAS), Rapid7, Kenna Security (Cisco tool), Prisma Cloud (Palo Alto) 
 
 
 #### Experience:
