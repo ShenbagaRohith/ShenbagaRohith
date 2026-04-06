@@ -14,13 +14,13 @@ I'm an experienced **Cybersecurity Professional** specializing in **Vulnerabilit
 
 
 #### Skills:
-- **Technical Skills**: Vulnerability Management, Cloud Security, EASM, Container Security, Application Security, Web Application 
+- **Technical Skills**: Vulnerability Management, SIEM, EDR, Cloud Security, EASM, Container Security, Application Security, Web Application 
 Security.
-- **Security Tools & Platforms**: Qualys (VMDR, CS, CV, PM, WAS), Rapid7, Kenna Security (Cisco tool), Prisma Cloud (Palo Alto) 
+- **Security Tools & Platforms**: Qualys (VMDR, CS, CV, PM, WAS), Palo Alto Networks XSIAM, CrowdStrike NG-SIEM, Rapid7, Kenna Security (Cisco tool), Prisma Cloud 
 
 
 #### Experience:
-#### **Associate Consultant - Infosys Limited** - Aug 2021 -> Present
+#### **Senior Associate Consultant - Infosys Limited** - Aug 2021 -> Present
 - Secured client IT infrastructures by discovering, assessing, prioritizing and reporting vulnerabilities and risks.
 - Worked on multiple projects onboarding clients' IT assets, including servers, network devices, and endpoints, into vulnerability management tools like Qualys, and the risk prioritization tool Kenna Security.
 - Worked on container security to protect client container environments.
